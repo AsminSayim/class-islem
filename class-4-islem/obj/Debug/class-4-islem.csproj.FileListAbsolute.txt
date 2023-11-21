@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\class-4-islem\class-4-islem\bin\Debug\class-4-islem.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\class-4-islem\class-4-islem\bin\Debug\class-4-islem.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\class-4-islem\class-4-islem\bin\Debug\class-4-islem.pdb
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\class-4-islem\class-4-islem\obj\Debug\class-4-islem.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\class-4-islem\class-4-islem\obj\Debug\class-4-islem.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\class-4-islem\class-4-islem\obj\Debug\class_4_islem.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\class-4-islem\class-4-islem\obj\Debug\class_4_islem.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\class-4-islem\class-4-islem\obj\Debug\class-4-islem.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\class-4-islem\class-4-islem\obj\Debug\class-4-islem.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\class-4-islem\class-4-islem\obj\Debug\class-4-islem.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\class-4-islem\class-4-islem\obj\Debug\class-4-islem.pdb
